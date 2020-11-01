@@ -1,0 +1,1 @@
+This is the back-side of the second project, which is in the course.
